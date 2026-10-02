@@ -2,14 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses that I worked as an assistant
+description: Undergraduate courses I have assisted with at Sabancı University.
 nav: true
 nav_order: 6
-calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+During my undergraduate studies, I have served as a Learning Assistant for core computer science courses, guiding students through technical problem sets and assisting instructors with course material development.
 
 {% include courses.liquid %}
