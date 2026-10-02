@@ -130,16 +130,6 @@ div#notebook {
   background-color: #ffffff;
 }
 
-#header .header-bar {
-  background: #ffffff;
-  background-color: #ffffff;
-}
-
-body > #header .header-bar {
-  width: 100%;
-  background: #ffffff;
-}
-
 .navbar {
   border: none;
 }
@@ -177,16 +167,6 @@ body > #header .header-bar {
     -webkit-transform: scale(1, 1);
     opacity: 0.8;
   }
-}
-
-.fa {
-  display: inline-block;
-  font:
-    normal normal normal 10pt/1 "FontAwesome",
-    sans-serif;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .dropdown-menu {
@@ -464,7 +444,6 @@ h6,
 pre,
 code,
 form,
-legend,
 input,
 button,
 textarea,
