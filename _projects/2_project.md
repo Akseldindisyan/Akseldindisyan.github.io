@@ -5,7 +5,6 @@ description: Deployed the BEVFusion hybrid camera-LiDAR object detection model f
 img: assets/img/BEVFUSION Diagram.png
 importance: 2
 category: Internship
-giscus_comments: true
 ---
 
 **TL;DR:** Evaluated and deployed the BEVFusion 3D vision detection algorithm for the Advanced Driver-Assistance Systems (ADAS) team at Ford Otosan.
