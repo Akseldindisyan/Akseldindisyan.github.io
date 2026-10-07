@@ -12,7 +12,7 @@ category: Academic Research
 ![Baxter Robot performing pick-and-place](assets/img/12.jpg) 
 
 ### Technologies & Methodology
-* **Hardware:** Baxter Service Robot (Dual 7-DOF arms)[cite: 16].
+* **Hardware:** Baxter Service Robot (Dual 7-DOF arms).
 * **Software & Frameworks:** ROS (Kinetic/Noetic), MoveIt! trajectory planning, Gazebo 11 simulation environment, Python.
 * **Algorithms Investigated:** Greedy Packing, AABB (Axis-Aligned Bounding Box) Trees, and Gridization-Based Hierarchical Placement.
 
