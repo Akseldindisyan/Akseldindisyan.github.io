@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Vehicle 3D Vision Detection
 description: Deployed the BEVFusion hybrid camera-LiDAR object detection model for Ford Otosan's ADAS team.
-img: assets/img/BEVFUSION Diagram.png
+img: assets/img/Ford.png
 importance: 2
 category: Internship
 ---
