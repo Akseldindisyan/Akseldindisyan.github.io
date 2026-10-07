@@ -9,7 +9,7 @@ category: Internship
 
 **TL;DR:** Developed and deployed RAG-based and multi-agent AI solutions at Orbislabs to automate CV screening for Human Resources and translate natural language into SQL for enterprise databases.
 
-![OrbisFlow Agent Architecture](assets/img/SQL Agent.png)
+![OrbisFlow Agent Architecture](/assets/img/SQL Agent.png)
 
 ### Technologies & Methodology
 * **Software & Frameworks:** Python, PyMuPDF, FAISS vector database, LangChain, OrbisFlow (modified Langflow), and Vanna AI.
