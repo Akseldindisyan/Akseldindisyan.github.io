@@ -1,24 +1,26 @@
 ---
 layout: page
-title: BEVFUSION Deployment
-img: assets/img/3.jpg
+title: Autonomous Vehicle 3D Vision Detection
+description: Deployed the BEVFusion hybrid camera-LiDAR object detection model for Ford Otosan's ADAS team.
+img: assets/img/BEVFUSION Diagram.png
 importance: 2
 category: Internship
 giscus_comments: true
 ---
 
-TL;DR: This project was conducted during my internship in Ford Otosan which is automative manufacturing company based in Turkey that is equally owned by Ford Motor Company and Koç Holding. The main aim of the project was testing capabilities of BEVFUSION which is 3D hybrid computer vision algorithm that utlises both camera and LIDAR output in order evaluate BEVFUSION's usefulness for autonomous vehicles.
+**TL;DR:** Evaluated and deployed the BEVFusion 3D vision detection algorithm for the Advanced Driver-Assistance Systems (ADAS) team at Ford Otosan.
 
+![BEVFusion Inference](assets/img/BEVFUSION Inference.jpg)
 
+### Technologies & Methodology
+* **Hardware:** NVIDIA T4 GPU, Google Cloud Virtual Machines, and remote SSH servers.
+* **Software & Frameworks:** Python, Nvidia Toolkit 11.1, TensorRT, and Netbird.
+* **Algorithms & Datasets:** BEVFusion (hybrid camera and LiDAR inputs), nuScenes (v-1.0 mini) dataset.
 
-Technologies & Methodology
-Hardware: NVIDIA T4 GPU.
-Software & Frameworks: Python, Nvidia Toolkit, TensotRT, Netbird.
-Algorithms Investigated: BEVFUSION.
-Key Contributions & Results
-I made an extensive literature research on both 2D and 3D vision detection algorithms
-and delivered both documents and slides to company.
-I successfully made inference on BEVFusion by using nuScenes mini data set and create a visualization of it.
-I delivered a document on how to run inference code, which errors you can encounter and how to fix those for both BEVFusion Inference and Visualization and Accelerated Inference with CUDA & TensorRT.
+### Key Contributions & Results
+* Conducted an extensive literature review covering monocular, stereo, multi-camera, and fusion-based 2D and 3D vision detection architectures.
+* Resolved library dependency conflicts and repaired repository code to successfully execute BEVFusion inference for 3D object detection and Bird-Eye-View (BEV) map segmentation.
+* Overcame local GPU memory constraints by configuring a remote SSH connection via Netbird and deploying a Google Cloud virtual machine to process the models.
+* Authored comprehensive technical documentation detailing the inference pipeline, visualization steps, and troubleshooting procedures for CUDA and TensorRT acceleration.
 
-{% endraw %}
+<a href="{{ '/assets/pdf/CS395_FinalReport_Aksel_Dindisyan_30September2025_Internship1.pdf' | relative_url }}" class="btn z-depth-0" role="button" target="_blank">Download Full Internship Report (PDF)</a>
