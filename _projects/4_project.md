@@ -1,80 +1,26 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Predicting Geopolitical Impacts on Commodity Prices
+description: Developed LSTM forecasting models and Monte Carlo simulations at Mercedes-Benz Türk to predict Brent crude and aluminium prices.
+img: /assets/img/mercedes.jpg
+importance: 4
+category: Internship
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**TL;DR:** Developed predictive forecasting models and risk simulations for the Technical Procurement Department at Mercedes-Benz Türk to estimate Brent crude and aluminium prices amid geopolitical conflicts, enabling data-driven contract negotiations[cite: 53, 56, 58].
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+![Simulation Line Graphs](/assets/img/mercedes.jpg)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Technologies & Methodology
+* **Forecasting & Simulation Models:** Long Short-Term Memory (LSTM) neural networks, Markov Chains, and Monte Carlo Simulations[cite: 53, 59].
+* **Statistical & EDA Tools:** Shapiro test, Skewness test, Pearson correlation matrixes, cross-correlation analysis, line graphs, bar charts, and histograms[cite: 59, 60, 62].
+* **Data Sources:** London Metal Exchange (LME), UCDP Candidate Events Dataset, WTO's Strait of Hormuz Trade Tracker, and Federal Reserve Economic Data (FRED)[cite: 59, 61].
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Key Contributions & Results
+* Compiled, filtered, and merged disparate open-source datasets to analyze the relationship between Strait of Hormuz maritime traffic, conflict frequency, and commodity pricing[cite: 59, 61].
+* Extracted state transition probabilities from historical daily conflict data—categorized into main, proxy, and insurgency conflicts—using Markov Chain modeling[cite: 62, 64].
+* Trained two discrete LSTM models: one to predict Brent Crude prices based on historical market data and conflict states, and a second to forecast aluminium prices driven by energy costs[cite: 65].
+* Executed 1,000 Monte Carlo simulations projecting conflict states through the end of 2026, augmenting the base simulations with LSTM predictions to map potential market volatility[cite: 66, 67].
+* Delivered a comprehensive risk assessment to the procurement team, establishing a 90% probability mean for Brent crude between $84.37 and $108.29, and for aluminium between $3090.83 and $3361.34[cite: 57, 68].
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<a href="{{ '/assets/pdf/IE395_FinalReport_Aksel_Dindisyan_29September2026.pdf' | relative_url }}" class="btn z-depth-0" role="button" target="_blank">Download Full Internship Report (PDF)</a>
