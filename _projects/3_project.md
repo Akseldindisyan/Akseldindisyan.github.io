@@ -2,14 +2,14 @@
 layout: page
 title: Development of CV Analyzer and Text2SQL AI Agents
 description: Engineered AI agents leveraging LangChain and Langflow to automate data processing and hiring workflows.
-img: assets/img/7.jpg
+img: assets/img/SQL Agent.png
 importance: 3
 category: Internship
 ---
 
 **TL;DR:** Developed and deployed RAG-based and multi-agent AI solutions at Orbislabs to automate CV screening for Human Resources and translate natural language into SQL for enterprise databases.
 
-![OrbisFlow Agent Architecture](assets/img/7.jpg)
+![OrbisFlow Agent Architecture](assets/img/SQL Agent.png)
 
 ### Technologies & Methodology
 * **Software & Frameworks:** Python, PyMuPDF, FAISS vector database, LangChain, OrbisFlow (modified Langflow), and Vanna AI.
