@@ -9,7 +9,7 @@ category: Academic Research
 
 **TL;DR:** Developed and implemented spatial optimization and trajectory planning algorithms to enable a Baxter service robot to autonomously evaluate and place items on a cluttered 2D surface.
 
-![Baxter Robot performing pick-and-place](assets/img/12.jpg) 
+![Baxter Robot performing pick-and-place](assets/img/BaxterRobot.jpg) 
 
 ### Technologies & Methodology
 * **Hardware:** Baxter Service Robot (Dual 7-DOF arms).
