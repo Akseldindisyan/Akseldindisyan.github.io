@@ -4,7 +4,7 @@ title: Development of CV Analyzer and Text2SQL AI Agents
 description: Engineered AI agents leveraging LangChain and Langflow to automate data processing and hiring workflows.
 img: assets/img/7.jpg
 importance: 3
-category: work
+category: Internship
 ---
 
 **TL;DR:** Developed and deployed RAG-based and multi-agent AI solutions at Orbislabs to automate CV screening for Human Resources and translate natural language into SQL for enterprise databases.
