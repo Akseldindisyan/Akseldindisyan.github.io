@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Development of CV Analyzer and Text2SQL AI Agents
+description: Engineered AI agents leveraging LangChain and Langflow to automate data processing and hiring workflows.
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**TL;DR:** Developed and deployed RAG-based and multi-agent AI solutions at Orbislabs to automate CV screening for Human Resources and translate natural language into SQL for enterprise databases.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+![OrbisFlow Agent Architecture](assets/img/7.jpg)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Technologies & Methodology
+* **Software & Frameworks:** Python, PyMuPDF, FAISS vector database, LangChain, OrbisFlow (modified Langflow), and Vanna AI.
+* **Models:** SBERT, Cohere Embedding, Cohere Rerank, Cohere LLM, and local LLMs.
+* **Databases:** PostgreSQL.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Key Contributions & Results
+* Developed an RAG-based CV Analyzer that utilizes PyMuPDF for text extraction, Cohere embeddings, and an FAISS vector database to automatically rank candidates against job descriptions.
+* Integrated a Cohere LLM with a memory component to allow users to interactively chat with the CV database, extracting missing or matching candidate qualities while reducing human hiring biases.
+* Engineered a Text2SQL multi-agent architecture using LangChain for an insurance company, enabling non-technical managers to query a PostgreSQL database using natural language.
+* Implemented a complex LangChain routing system containing table-specific agents, fuzzy filter checks, and query validation layers to generate and refine SQL queries.
+* Evaluated and iterated through multiple architectural frameworks (such as SBERT and Vanna AI) and applied prompt engineering to resolve LLM output format errors and reduce hallucination issues.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+<a href="{{ '/assets/pdf/CS395_FinalReport_Aksel_Dindisyan_30September2025_Internship2.pdf' | relative_url }}" class="btn z-depth-0" role="button" target="_blank">Download Full Internship Report (PDF)</a>
 
 {% endraw %}
