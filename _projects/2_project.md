@@ -21,5 +21,3 @@ category: Internship
 * Resolved library dependency conflicts and repaired repository code to successfully execute BEVFusion inference for 3D object detection and Bird-Eye-View (BEV) map segmentation.
 * Overcame local GPU memory constraints by configuring a remote SSH connection via Netbird and deploying a Google Cloud virtual machine to process the models.
 * Authored comprehensive technical documentation detailing the inference pipeline, visualization steps, and troubleshooting procedures for CUDA and TensorRT acceleration.
-
-<a href="{{ '/assets/pdf/CS395_FinalReport_Aksel_Dindisyan_30September2025_Internship1.pdf' | relative_url }}" class="btn z-depth-0" role="button" target="_blank">Download Full Internship Report (PDF)</a>
