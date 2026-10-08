@@ -21,6 +21,6 @@ category: Internship
 * Extracted state transition probabilities from historical daily conflict data—categorized into main, proxy, and insurgency conflicts—using Markov Chain modeling.
 * Trained two discrete LSTM models: one to predict Brent Crude prices based on historical market data and conflict states, and a second to forecast aluminium prices driven by energy costs.
 * Executed 1,000 Monte Carlo simulations projecting conflict states through the end of 2026, augmenting the base simulations with LSTM predictions to map potential market volatility.
-* Delivered a comprehensive risk assessment to the procurement team, establishing a 90% probability mean for Brent crude between $84.37 and $108.29, and for aluminium between $3090.83 and $3361.34.
+* Delivered a comprehensive risk assessment to the procurement team, establishing a 90% probability mean for Brent crude between \$84.37 and \$108.29, and for aluminium between \$3090.83 and \$3361.34.
 
 
