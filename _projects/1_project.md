@@ -20,5 +20,3 @@ category: Academic Research
 * Transformed the physical desk environment into a 2D coordinate system and approximated items as rectangle bounding boxes to efficiently frame the task as a packing problem.
 * Engineered a recursive blank space detection algorithm and a greedy packing algorithm that selects optimal placements using Candidate Corner-Occupying Actions (CCOA) to minimize computational overhead.
 * Successfully planned and executed collision-free pick-and-place kinematics in both Gazebo simulations and on the physical Baxter hardware using MoveIt!.
-
-<a href="{{ '/assets/pdf/How can a robot place an item on a cluttered desk.pdf' | relative_url }}" class="btn z-depth-0" role="button" target="_blank">Download Full PURE Research Report (PDF)</a>
