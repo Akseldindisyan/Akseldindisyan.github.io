@@ -22,5 +22,3 @@ category: Internship
 * Engineered a Text2SQL multi-agent architecture using LangChain for an insurance company, enabling non-technical managers to query a PostgreSQL database using natural language.
 * Implemented a complex LangChain routing system containing table-specific agents, fuzzy filter checks, and query validation layers to generate and refine SQL queries.
 * Evaluated and iterated through multiple architectural frameworks (such as SBERT and Vanna AI) and applied prompt engineering to resolve LLM output format errors and reduce hallucination issues.
-
-<a href="{{ '/assets/pdf/CS395_FinalReport_Aksel_Dindisyan_30September2025_Internship2.pdf' | relative_url }}" class="btn z-depth-0" role="button" target="_blank">Download Full Internship Report (PDF)</a>
