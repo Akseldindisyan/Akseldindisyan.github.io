@@ -2,7 +2,7 @@
 layout: page
 title: Development of CV Analyzer and Text2SQL AI Agents
 description: Engineered AI agents leveraging LangChain and Langflow to automate data processing and hiring workflows.
-img: assets/img/SQL Agent.png
+img: assets/img/Orbislabs.png
 importance: 2
 category: Internship
 ---
