@@ -3,7 +3,7 @@ layout: page
 title: Predicting Geopolitical Impacts on Commodity Prices
 description: Developed LSTM forecasting models and Monte Carlo simulations at Mercedes-Benz Türk to predict Brent crude and aluminium prices.
 img: /assets/img/Mercedes.png
-importance: 4
+importance: 1
 category: Internship
 ---
 
