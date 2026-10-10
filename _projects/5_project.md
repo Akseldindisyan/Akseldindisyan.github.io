@@ -9,7 +9,9 @@ category: Academic Research
 
 **TL;DR:** Constructed a comprehensive social-media-focused logo detection dataset (VRL-SM-Logo) and demonstrated that models trained on highly diverse social media imagery achieve superior cross-domain generalization compared to standard benchmark datasets.
 
-![Model Output Samples](/assets/img/Logo_page.jpg)
+<div class="text center">
+    <img src="/assets/img/Logo_page.jpg" style="width: 60%; max-width: 600px;">
+</div>
 
 ### Technologies & Methodology
 * **Models & Architecture:** DINOv3-ConvNext-Large backbone paired with a DETR (DEtection TRansformer) detection head.
