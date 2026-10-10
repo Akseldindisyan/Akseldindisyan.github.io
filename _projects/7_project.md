@@ -9,10 +9,7 @@ category: Course Project
 
 **TL;DR:** Analyzed the performance bottlenecks of the ConTree optimal decision tree builder and engineered a hybrid CPU/GPU parallelization strategy using OpenMP and CUDA to accelerate its processing of continuous numeric data.
 
-<div class="text-center">
-    <img src="/assets/img/Simple_decision_tree.jpg" alt="A Simple Decision Tree Example" style="width: 80%; max-width: 800px;">
-    <p class="text-muted mt-2" style="font-size: 0.85em;"></p>
-</div>
+{% include figure.liquid path="assets/img/Simple_decision_tree.jpg" class="img-fluid rounded z-depth-1" %}
 
 ### Technologies & Methodology
 * **Software & Frameworks:** C++, OpenMP, NVIDIA CUDA, CMake.
