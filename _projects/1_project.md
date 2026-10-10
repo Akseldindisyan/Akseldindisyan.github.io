@@ -3,7 +3,7 @@ layout: page
 title: How can a robot place an item on a cluttered desk 
 description: Spatial optimization and trajectory planning for a Baxter service robot.
 img: assets/img/BaxterRobot.jpg
-importance: 1
+importance: 2
 category: Academic Research
 ---
 
