@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Undergraduate courses I have assisted with at Sabancı University.
 nav: true
 nav_order: 6
 ---
