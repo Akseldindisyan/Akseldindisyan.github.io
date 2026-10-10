@@ -9,7 +9,10 @@ category: Course Project
 
 **TL;DR:** Engineered an accelerated NLP pipeline and fine-tuned Large Language Models (including Llama 3.1) to classify direct, partial, and evasive political responses, outperforming state-of-the-art baselines on the SemEval CLARITY dataset.
 
-![SemEval CLARITY](/assets/img/CLARITY.jpg)
+<div class="text-center">
+    <img src="/assets/img/CLARITY.jpg" alt="SemEval Clarity Classification Pipeline" style="width: 80%; max-width: 800px;">
+    <p class="text-muted mt-2" style="font-size: 0.85em;"><i>Figure source: SemEval-2026 CLARITY Task</i></p>
+</div>
 
 ### Technologies & Methodology
 * **Software & Frameworks:** Python, PyTorch, Hugging Face Transformers, spaCy, NLTK, ELFEN, scikit-learn, Tinker.
