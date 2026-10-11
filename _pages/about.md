@@ -20,4 +20,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am an undergraduate student who is double majoring in Computer Science and Engineering and Industrial Engineering. I have internship experience in 3D vision recognition algorithms and AI based agentic system development. I am working in the fields of data science and vision recognition. I am also improving my knowledge on machine learning and natural language processing.
+<div style="text-align: justify;" markdown="1">
+I am an undergraduate student at Sabancı University. I completed my primary degree in Computer Science and Engineering in June 2026 (ranking 5th in my class with a 3.96/4.00 GPA) and am currently completing a double major in Industrial Engineering, expected in June 2027. During my studies, I also broadened my academic scope through an Erasmus exchange semester in the Mathematics and Computer Science department at the Eindhoven University of Technology.   
+My research interests lie at the intersection of computer vision, machine learning, and high-performance computing. As a Research Assistant at Virallab, I co-authored the paper "Brand Logo Detection in Social Media Images," which was published at the 34th SIU Conference. I have also applied these capabilities to complex, real-world problems, from parallelizing berth allocation heuristics for my container terminal capstone project to developing perception pipelines for autonomous vehicles during my internship at Ford Otosan.   
+I am currently preparing for graduate studies in Computer Science and Artificial Intelligence to further my research in intelligent systems, applied optimization, and high-performance computing.
+</div>
