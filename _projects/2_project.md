@@ -10,7 +10,7 @@ category: Internship
 **TL;DR:** Evaluated and deployed the BEVFusion 3D vision detection algorithm for the Advanced Driver-Assistance Systems (ADAS) team at Ford Otosan.
 
 <div class="text center">
-    <img src="/assets/img/BEVFUSION Inference.jpg" style="width: 60%; max-width: 600px;">
+    <img src="/assets/img/BEVFUSION Inference.jpg" style="width: 70%; max-width: 600px;">
 </div>
 
 ### Technologies & Methodology
