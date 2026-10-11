@@ -20,4 +20,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am an undergraduate student who is double majoring in Computer Science and Engineering and Industrial Engineering. I have internship experience in 3D vision recognition algorithms and AI based agentic system development. I am working in the fields of data science and vision recognition. I am also improving my knowledge on machine learning and natural language processing
+I am an undergraduate student who is double majoring in Computer Science and Engineering and Industrial Engineering. I have internship experience in 3D vision recognition algorithms and AI based agentic system development. I am working in the fields of data science and vision recognition. I am also improving my knowledge on machine learning and natural language processing.
