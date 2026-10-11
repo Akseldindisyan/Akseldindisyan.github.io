@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 nav: true
 nav_order: 3
-display_categories: [Academic Research, Internship, Course Project]
+display_categories: [Capstone Project, Academic Research, Internship, Course Project]
 horizontal: false
 ---
 
