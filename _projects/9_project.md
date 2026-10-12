@@ -36,5 +36,5 @@ category: Course Project
 - Product Managers maintain the inventory database, manage product categories, and moderate customer comments for approval.
 
 **Security & Concurrency**
-- The application architecture was designed to securely handle multiple users operating concurrently without data race conditions[cite: 65].
-- Defensive programming principles were implemented to encrypt all sensitive data, including user accounts, passwords, mock credit card information, and invoices[cite: 64, 65].
+- The application architecture was designed to securely handle multiple users operating concurrently without data race conditions.
+- Defensive programming principles were implemented to encrypt all sensitive data, including user accounts, passwords, mock credit card information, and invoices.
