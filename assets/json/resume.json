@@ -4,7 +4,7 @@
     "label": "Computer Science & Industrial Engineering",
     "email": "aksel.dindisyan@sabanciuniv.edu",
     "url": "https://akseldindisyan.com",
-    "summary": "Double major in Computer Science and Industrial Engineering at Sabancı University with a 3.96 CGPA, specializing in computer vision, machine learning, and high-performance computing. Highly passionate about Computer Vision, having applied it in both academic research such as my published paper on brand logo detection at SIU and industrial implementations at Ford Otosan. Expanded expertise into Natural Language Processing (NLP) and transformer models through the CLARITY project and engineering internship at Orbislabs.",
+    "summary": "Double major in Computer Science and Industrial Engineering at Sabancı University with a 3.96 CGPA, specializing in computer vision, machine learning, and high-performance computing. Highly passionate about Computer Vision, having applied it in both academic research such as my published paper on brand logo detection at SIU and industrial implementations at Ford Otosan. Deeply interested in High-Performance Computing (HPC) and Machine Learning, skill sets leveraged extensively to optimize my capstone project. Expanded expertise into Natural Language Processing (NLP) and transformer models through the CLARITY project and engineering internship at Orbislabs.",
     "location": {
       "city": "Istanbul",
       "countryCode": "TR",
@@ -34,14 +34,14 @@
       "name": "Sabancı University",
       "position": "Learning Assistant CS 307 Operating Systems",
       "startDate": "2026-10",
-      "summary": "Assisted 110 students with assignments related to operating system principles by organizing office hours. Worked on Selfie in order to explore its possible use cases in the OS curriculum."
+      "summary": "Assisted 110 students with assignments related to operating system principles by organizing office hours. Worked on Selfie in order to explore its possible use cases in the OS curriculum. <a href=\"[CS307_Syllabus](https://apps.sabanciuniv.edu/courses/syllabus/view.php?term=202601&crn=10135&origin=www_syllabus)\" target=\"_blank\">View Syllabus</a>."
     },
     {
       "name": "Sabancı University",
       "position": "Learning Assistant IF 100 Computational Approaches to Problem Solving",
       "startDate": "2025-10",
       "endDate": "2026-06",
-      "summary": "Organized weekly office hours to support a total course cohort of 670 students with lecture-related queries. Led two weekly recitation sections, guiding 63 students through Python-based problem sets and code debugging."
+      "summary": "Organized weekly office hours to support a total course cohort of 670 students with lecture-related queries. Led two weekly recitation sections, guiding 63 students through Python-based problem sets and code debugging. <a href=\"[IF100_Syllabus](https://apps.sabanciuniv.edu/courses/syllabus/view.php?term=202501&crn=10737&origin=www_syllabus)" target=\"_blank\">View Syllabus</a>."
     },
     {
       "name": "Mercedes-Benz Türk",
@@ -143,18 +143,18 @@
   ],
   "volunteer": [
     {
-      "organization": "QSB SU, QTurkey Student Branch Sabanci University",
-      "position": "Co-Founder and Vice President",
-      "startDate": "2023-07",
-      "endDate": "2024-07",
-      "summary": "Established QSB SU to promote awareness of quantum technologies, organizing and leading technical seminars, hackathons, and workshops."
-    },
-    {
       "organization": "CSS, Computer Science Society",
       "position": "Board Member",
       "startDate": "2023-10",
       "endDate": "2024-08",
-      "summary": "Collaborated with team members to execute club activities."
+      "summary": "Collaborated with team members to execute club activities such as seminars and workshops."
+    },
+    {
+      "organization": "QSB SU, QTurkey Student Branch Sabanci University",
+      "position": "Co-Founder and Vice President",
+      "startDate": "2023-07",
+      "endDate": "2024-07",
+      "summary": "Established QSB SU to promote awareness of quantum technologies, organizing and leading technical seminars, hackathons such as <a href=\"https://qturkiye.org/qiskitff-23/\" target=\"_blank\">IBM Qiskit Fall Fest 2023 [in Turkish]</a>."
     }
   ],
   "awards": [
@@ -175,7 +175,7 @@
       "date": ""
     },
     {
-      "title": "Obtained TÜBİTAK STAR Researcher Scholarship",
+      "title": "Obtained TÜBİTAK STAR Researcher Scholarship from March 2026 to July 2026",
       "date": "2026-03"
     }
   ]
