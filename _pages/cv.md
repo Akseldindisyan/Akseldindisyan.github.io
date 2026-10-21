@@ -1,22 +1,13 @@
 ---
-layout: none
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Redirecting to CV...</title>
-    <script>
-      /* Opens the PDF in a new tab */
-      window.open("/assets/pdf/Academic_CV.pdf", "_blank");
-      /* Instantly sends the original tab back to the previous page */
-      window.history.back();   
-    </script>
-  </head>
-  <body>
-    <p>If the PDF did not open automatically, <a href="/assets/pdf/Academic_CV.pdf" target="_blank">click here to view the CV</a>.</p>
-  </body>
-</html>
+
+<div class="text-center mt-5">
+  <h3>Aksel Dindisyan - Curriculum Vitae</h3>
+  <p>You can view my full academic and professional background below.</p>
+  <a href="/assets/pdf/Academic_CV.pdf" target="_blank" class="btn btn-primary mt-3">View Full CV (PDF)</a>
+</div>
