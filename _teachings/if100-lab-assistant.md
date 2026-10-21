@@ -10,3 +10,4 @@ year: 2025
 
 * Organized weekly office hours to support a total course cohort of 670 students with lecture-related queries.
 * Led two weekly recitation sections, guiding 63 students through Python-based problem sets and code debugging.
+* [IF100_Syllabus](https://apps.sabanciuniv.edu/courses/syllabus/view.php?term=202501&crn=10737&origin=www_syllabus)
