@@ -13,7 +13,7 @@ redirect_to: /assets/pdf/Academic_CV.pdf # you can also use external links here
     <title>Redirecting to CV...</title>
     <script>
       /* This redirects to the PDF while preserving the user's Back button history */
-      window.location.replace("/assets/pdf/Academic_CV.pdf");
+      window.open("/assets/pdf/Academic_CV.pdf");
     </script>
   </head>
   <body>
