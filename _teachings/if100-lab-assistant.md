@@ -8,5 +8,5 @@ year: 2025
 ---
 **Istanbul, Turkey | October 2025 – June 2026**
 
-* Guided students through Python-based problem sets.
-* Addressed lecture-related queries.
+* Organized weekly office hours to support a total course cohort of 670 students with lecture-related queries.
+* Led two weekly recitation sections, guiding 63 students through Python-based problem sets and code debugging.
