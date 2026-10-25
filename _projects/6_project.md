@@ -9,6 +9,12 @@ category: Course Project
 
 **TL;DR:** Engineered an accelerated NLP pipeline and fine-tuned Large Language Models (including Llama 3.1) to classify direct, partial, and evasive political responses, outperforming state-of-the-art baselines on the SemEval CLARITY dataset.
 
+<div class="row justify-content-center">
+    <div class="col-sm-auto mt-3">
+        <a href="https://github.com/Akseldindisyan/CS445_CLARITY_Unmasking-Political-Question-Evasions" target="_blank" class="btn btn-outline-primary btn-sm"><i class="fab fa-github"></i> View Repository</a>
+    </div>
+</div>
+
 <div class="text-center">
     <img src="/assets/img/CLARITY.jpg" alt="SemEval Clarity Classification Pipeline" style="width: 80%; max-width: 800px;">
     <p class="text-muted mt-2" style="font-size: 0.85em;"><i>Figure source: SemEval-2026 CLARITY Task</i></p>
