@@ -6,6 +6,7 @@ importance: 1
 category: undergraduate
 year: 2026
 ---
+
 **Istanbul, Turkey | October 2026 – Present**
 
 * Assisted 110 students with assignments related to operating system principles by organizing office hours.
