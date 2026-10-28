@@ -23,8 +23,12 @@ announcements:
 
 <div style="text-align: justify; display: flow-root;" markdown="1">
   
-I am an undergraduate student at Sabancı University. I completed my first degree in Computer Science and Engineering in June 2026 (ranking 5th in my class with a 3.96/4.00 GPA) and am currently completing a double major in Industrial Engineering, expected in June 2027. During my studies, I also broadened my academic scope through an Erasmus exchange semester in the Mathematics and Computer Science Department at the Eindhoven University of Technology.   
-My research interests lie at the intersection of computer vision, machine learning, and high-performance computing. As a Research Assistant at Virallab, I co-authored the paper "Brand Logo Detection in Social Media Images," which was published at the 34th SIU Conference. I have also applied these capabilities to complex, real-world problems, from parallelizing berth allocation heuristics for my container terminal capstone project to developing perception pipelines for autonomous vehicles during my internship at Ford Otosan.   
-I am currently preparing for graduate studies in Computer Science and Artificial Intelligence to further my research in intelligent systems, applied optimization, and high-performance computing.
+<p>I am an undergraduate student at Sabancı University. I completed my first degree in Computer Science and Engineering in June 2026 (ranking 5th in my class with a 3.96/4.00 GPA). 
+My research interests lie in the intersection of computer vision, machine learning, and high-performance computing. As a Research Assistant at <a href"https://varollab.com/research.html">Virallab</a>, I co-authored the paper <a href="https://ieeexplore.ieee.org/document/11636669/">“Brand Logo Detection in Social Media Images,”</a> which was published at the 34th SIU Conference.</p>
+
+<p>I have also applied my capabilities to complex, real-world problems, from parallelizing berth allocation heuristics for my container terminal capstone project to developing perception pipelines for autonomous vehicles during my internship at Ford Otosan.</p>
+
+<p>I am currently preparing for graduate studies in Computer Science and Artificial Intelligence to further my research in computer vision, intelligent systems, and high-performance computing.</p>
+
 
 </div>
