@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Double Major in Computer Science & Industrial Engineering at <a href='https://www.sabanciuniv.edu/' target='_blank'>Sabancı University</a>
+subtitle:
 
 profile:
   align: right
@@ -23,7 +23,7 @@ announcements:
 
 <div style="text-align: justify; display: flow-root;" markdown="1">
   
-<p>I am an undergraduate student at Sabancı University. I completed my first degree in Computer Science and Engineering in June 2026 (ranking 5th in my class with a 3.96/4.00 GPA).</p>
+<p>I am an undergraduate student at <a href='https://www.sabanciuniv.edu/' target='_blank'>Sabancı University</a>. I completed my first degree in Computer Science and Engineering in June 2026 (ranking 5th in my class with a 3.96/4.00 GPA).</p>
  
 <p>My research interests lie in the intersection of computer vision, machine learning, and high-performance computing. As a Research Assistant at <a href="https://varollab.com/research.html">Virallab</a>, I co-authored the paper <a href="https://ieeexplore.ieee.org/document/11636669/">“Brand Logo Detection in Social Media Images”</a> which was published at the <a href="https://siu2026.pirireis.edu.tr/en/">34th SIU Conference</a>.</p>
 
